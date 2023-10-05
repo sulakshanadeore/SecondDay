@@ -14,6 +14,7 @@ namespace CSharpBasics
             Console.WriteLine("Adding code");
             Console.WriteLine(  "One more github");
             Console.WriteLine("This update from github");
+            int i, j, k;
         }
     }
 }
