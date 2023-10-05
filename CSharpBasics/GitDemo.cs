@@ -11,6 +11,7 @@ namespace CSharpBasics
         static void Main(string[] args)
         {
             Console.WriteLine( "I am adding this code");
+            Console.WriteLine("Adding code");
         }
     }
 }
